@@ -2,6 +2,14 @@
 
 ## 1.32.6.5beta
 
+Merge pull request #24 from areteruhiro/areteruhiro-patch-22
+
+Update NPatch + LSPatch.yml
+
+
+
+## 1.32.6.5beta
+
 LSpach/NPachでの生体情報の連携を可能にする機能オプションの追加
 LIMEsのフォルダ選択ボタンをホームの
 ヘッダーにも追加
