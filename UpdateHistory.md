@@ -1,5 +1,11 @@
 
 
+## 1.34.1.bata
+
+minimumAcceptableKeywordLength がNotificationカテゴリに分類されていたのをchatに変更
+
+
+
 ## 1.34.0.bata
 
 検索時キーワードを1文字でもできるようにするminimumAcceptableKeywordLength機能の追加
