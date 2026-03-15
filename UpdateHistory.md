@@ -1,5 +1,17 @@
 
 
+## 1.34.3.3alpha
+
+緊急アップデート
+パッチ済みLINEの署名が
+LIMEs v1.34.beta Released
+yml
+から変更になってしまっていたのを修正
+
+LIMEsTalkBackUpRestore機能の改善
+
+
+
 ## 1.34.3.2.alpha
 
 [15.12.2]
