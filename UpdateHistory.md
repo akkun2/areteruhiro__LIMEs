@@ -1,5 +1,11 @@
 
 
+## 1.34.3.4alpha
+
+LIMEsTalkBackUpRestore機能の改善
+
+
+
 ## 1.34.3.3alpha
 
 緊急アップデート
