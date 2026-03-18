@@ -1,5 +1,14 @@
 
 
+## 1.35.0.3alpha
+
+LIMEsボタンマージン設定の大きさを調整
+通知Customize機能をv1.34.3.6に戻す
+EmbedOptionsの解読性の向上(機能を別クラスに移動)
+PhotoAddNotificatio.javaファイル名をNotification_Customize.javaに変更
+
+
+
 ## 1.35.0.2alpha
 
 developerにあったボタンをotherに移動
