@@ -104,7 +104,7 @@ https://discord.com/channels/1392057820316303362/1437001953950437417
 寄付のほどお願いいたします<br>
 Please donate to ensure continued development time.
 
-* [Pay Pay4/2まで02時まで](https://qr.paypay.ne.jp/p2p01_gfgo1kA2GR15718o)<br>
+* [Pay Pay4/2 02時まで](https://qr.paypay.ne.jp/p2p01_gfgo1kA2GR15718o)<br>
 
 * PayPay ID
 hiro_1114
