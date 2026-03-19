@@ -1,5 +1,12 @@
 
 
+## 1.36.0.2.alpha
+
+try catchで最新バージョンに対応
+Archive　設定機能の追加
+
+
+
 ## 1.36.1.0.alpha
 
 AlbumAutoDownload機能の追加
