@@ -2,6 +2,16 @@
 
 ## 1.36.4.1.alpha
 
+15.12.2
+試験的にGMSCore_LINE_Talk_BackUP_Restore 機能の追加
+ALL
+起動時見つからないクラスがある場合にスキップするように
+QuickToggleButtonボタンの追加(常に既読をつけない、自動返信のオン、オフ)
+
+
+
+## 1.36.4.1.alpha
+
 ALL
 QuickToggleButtonボタンを押した際に、自動返信機能がオンになっていないとクラッシュするのを修正
 ボタンの設定でのクラッシュを修正
